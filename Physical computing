@@ -1,0 +1,34 @@
+IDEA 1: fireblending, punching 
+input: accelerator
+output: gas, lighter -- fire 
+
+IDEA 2: icecream delivery 
+input: 
+heat (when the temperature in SG is above 33 degrees, the sensor will trigger the computer to produce icecream)
+weight sensor to detect if there is icecream
+
+output: icecream 
+
+IDEA 3: Automatic foot massager 
+input: accelerator, tilt sensor
+if the slipper is in a vertical position, motors will turn on to vibrate and massage the feet 
+if the slipper is in a horizontal position, the motors will turn off. 
+
+physical parts: 
+socks
+
+2 x Arduino Lilypad Main Board 
+2 x Lilypad Accelerometer Boards 
+2 x Lilypad Power boards 
+2 x Lilypad Vibe Boards 
+2 x Lithium Ion Polymer batteries 
+
+output: 
+motion - vibration in order to massage the feet 
+
+to complicate things further: 
+moisture sensor - if the slipper's moisture level is above a certain threshold, the motors will keep vibrating/or the slipper will light up in order to indicate that the slipper should be washed 
+
+input
+how is it stored in the computer program (if this then this, then that)
+how to translate into the actual output 
